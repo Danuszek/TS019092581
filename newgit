@@ -2,10 +2,14 @@ Base file for the demo
 comment 1 from git
 comment 2 from IDzgit
 comment 3 from BIDZ-1
+<<<<<<< HEAD
 comment 4 in BIDZ-1
 comment 5 from git
 comment 6 from git into a new git branch on git
 
+=======
+comment 4 from in BIDZ-1
+>>>>>>> branch 'BIDZ-1' of git@github.com:Danuszek/TS019092581.git
 
 
 
